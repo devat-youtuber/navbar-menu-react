@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/navbar-menu-react/static/css/main.94ec2250.chunk.css",
-    "main.js": "/navbar-menu-react/static/js/main.6ed357b8.chunk.js",
-    "main.js.map": "/navbar-menu-react/static/js/main.6ed357b8.chunk.js.map",
+    "main.js": "/navbar-menu-react/static/js/main.cc3b664d.chunk.js",
+    "main.js.map": "/navbar-menu-react/static/js/main.cc3b664d.chunk.js.map",
     "runtime-main.js": "/navbar-menu-react/static/js/runtime-main.18514ca1.js",
     "runtime-main.js.map": "/navbar-menu-react/static/js/runtime-main.18514ca1.js.map",
     "static/js/2.5c474107.chunk.js": "/navbar-menu-react/static/js/2.5c474107.chunk.js",
     "static/js/2.5c474107.chunk.js.map": "/navbar-menu-react/static/js/2.5c474107.chunk.js.map",
     "index.html": "/navbar-menu-react/index.html",
-    "precache-manifest.313444a0682a0819a8ea1b680412e392.js": "/navbar-menu-react/precache-manifest.313444a0682a0819a8ea1b680412e392.js",
+    "precache-manifest.af5e16b8f3f6765e122531eec0cc01f1.js": "/navbar-menu-react/precache-manifest.af5e16b8f3f6765e122531eec0cc01f1.js",
     "service-worker.js": "/navbar-menu-react/service-worker.js",
     "static/css/main.94ec2250.chunk.css.map": "/navbar-menu-react/static/css/main.94ec2250.chunk.css.map",
     "static/js/2.5c474107.chunk.js.LICENSE.txt": "/navbar-menu-react/static/js/2.5c474107.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.18514ca1.js",
     "static/js/2.5c474107.chunk.js",
     "static/css/main.94ec2250.chunk.css",
-    "static/js/main.6ed357b8.chunk.js"
+    "static/js/main.cc3b664d.chunk.js"
   ]
 }
